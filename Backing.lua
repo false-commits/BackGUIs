@@ -1,12 +1,12 @@
 -- CREDIT RayField 
--- By lmmortalz on discord
+-- By falsecommits on discord
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 
 local Window = Rayfield:CreateWindow({
 	Name = "🔥| Backdoor Hubs",
 	LoadingTitle = "Backdoor Hubs",
-	LoadingSubtitle = "by lmmortalz on discord",
+	LoadingSubtitle = "by falsecommits on discord",
 	ConfigurationSaving = {
 		Enabled = false,
 		FolderName = nil, 
